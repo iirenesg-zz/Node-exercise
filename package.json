@@ -1,14 +1,14 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Node exercise",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Irene SG",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.16.3",
     "request": "^2.87.0"
   }
